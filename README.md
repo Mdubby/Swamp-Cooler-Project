@@ -1,4 +1,4 @@
-# Embedded Environmental Control System — ATmega2560
+# 4-state FSM embedded controller — ATmega2560, mixed-voltage sensor integration, multi-actuator control.
 ### CPE 301: Embedded Systems Design | University of Nevada, Reno | Spring 2022
 
 A fully functional embedded swamp cooler controller built on the ATmega2560 microcontroller, implementing a 4-state finite state machine (FSM) with real-time sensor feedback, mixed-voltage subsystem management, and multi-actuator control.
