@@ -30,9 +30,8 @@ The firmware manages a swamp cooler across four discrete operating states — **
 ## State Machine Architecture
 
 ![swamp_cooler_state_diagram](https://github.com/user-attachments/assets/1573243f-73d2-4abe-adbb-3e93dc938276)
-```
 
-```
+---
 
 ### State Behaviors
 
